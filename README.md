@@ -5,7 +5,7 @@
 OpenCV has a number of GUI methods that can be used to make useful programs. Although this isnt the main purpose of the library to begin with. For people who already have openCV installed anyways this kind of improvised program may come in handy.
 
 <p align="center">
-  <img src="./README_images/crop.gif" width="300" title="bot">
+  <img src="./README_images/crop.gif" width="600" title="bot">
 </p>
 <p align="center">
     Fig: Using the Cropping program
